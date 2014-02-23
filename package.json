@@ -1,0 +1,24 @@
+{
+  "name": "as.zaib.packetfilter-syntax",
+  "title": "PacketFilter-Syntax",
+  "description": "Syntax highlighting for OpenBSD PF (PacketFilter) pf.conf files.",
+  "homepage": "https://github.com/paukstis/brackets-packetfilter-syntax",
+  "keywords": [
+    "packetfilter",
+    "syntax",
+    "highlighting"
+  ],
+  "version": "0.1.0",
+  "author": {
+    "name": "evaldas",
+    "email": "evaldas@zaib.as",
+    "url": "https://github.com/paukstis/brackets-packetfilter-syntax"
+  },
+  "licenses": [{
+    "type": "BSD",
+    "url": "http://opensource.org/licenses/BSD-2-Clause"
+  }],
+  "engines": {
+    "brackets": ">=0.29.0"
+  }
+}
